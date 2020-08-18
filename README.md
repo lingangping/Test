@@ -1,3 +1,3 @@
 # mi-server
 first project
-lgp 1
+lgp 111222
